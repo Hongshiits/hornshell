@@ -9,12 +9,12 @@ Enter command like:
 
 >print "hello"  
 
-command struction:  
+Command struction:  
 
 >[function] [arguement1] [arguement2] [...]  
 
-Function menu will be showed when you start the program.  
-Arguement must be complete, only more but not less.  
-Spaces separate objects.  
-Use enter to end a command.  
-Do not add more space in the end.
+1.Function menu will be showed when you start the program.  
+2.Arguement must be complete, only more but not less.  
+3.Spaces separate objects.  
+4.Use enter to end a command.  
+5.Do not add more space in the end.
