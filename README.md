@@ -1,5 +1,6 @@
 # hornshell
-low ability command line shell<br>
+Low power command line shell.  
+Its only virtue is lightness.  
 
 ***
 
