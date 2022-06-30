@@ -1,16 +1,17 @@
 # hornshell
 low ability command line shell<br>
 
-use:<br>
-enter command like:<br>
+use:  
+enter command like:  
 
->print "hello"<br>
+>print "hello"  
 
-use enter to end a command<br>
-command struction:<br>
+command struction:  
 
->[function] [arguement1] [arguement2] [...]<br>
+>[function] [arguement1] [arguement2] [...]  
 
-function menu will be showed when you start the program<br>
-arguement must be complete, only more but not less<br>
-spaces separate objects<br>
+function menu will be showed when you start the program  
+arguement must be complete, only more but not less  
+spaces separate objects  
+use enter to end a command  
+do not add more space in the end
