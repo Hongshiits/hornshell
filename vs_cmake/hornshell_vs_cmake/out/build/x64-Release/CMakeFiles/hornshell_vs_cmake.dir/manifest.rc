@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "G:/PROJECT/hornshell/vs_cmake/hornshell_vs_cmake/out/build/x64-Release/CMakeFiles/hornshell_vs_cmake.dir/embed.manifest"
